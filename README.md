@@ -5,12 +5,12 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=3BA4F2&size=25&center=true&vCenter=true&width=700&lines=Backend+Developer;.NET+Specialist;Automation+Enthusiast;Building+Robust+and+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?color=3BA4F2&size=25&center=true&vCenter=true&width=700&lines=Backend+Developer;.NET;Automation+Enthusiast;Building+Robust+and+Scalable+Systems" />
 </p>
 
 <div align="center">
 
-💻 **Backend Developer | .NET Specialist | Automation Enthusiast**
+💻 **Backend Developer | .NET | Automation Enthusiast**
 
 Construindo soluções backend robustas, escaláveis e orientadas a performance utilizando **.NET**, **automação** e boas práticas de engenharia de software.
 
