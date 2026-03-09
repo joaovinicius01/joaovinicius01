@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/joaovinicius01/joaovinicius01/main/bannerGit.png" width="100%" />
-
 </div>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=3BA4F2&size=25&center=true&vCenter=true&width=700&lines=Backend+Developer;.NET;Automation+Enthusiast;Building+Robust+and+Scalable+Systems" />
-</p>
 
 <div align="center">
 
